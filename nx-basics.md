@@ -8,7 +8,7 @@ To install the Nx CLI you can use this command:
 
 
 ```
-npm add --global nx
+npm install --global nx
 ```
 
 To start a new project you can use this command.
