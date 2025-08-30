@@ -27,3 +27,19 @@ docker-compose up
 ```
 Docker compose starts and manages all the defined containers.
 
+#### The problems i faced with
+````
+ it will be ignored, please remove it to avoid potential confusion"
+unable to get image 'node:20-alpine': request returned 500 Internal Server Error for API route and version
+````
+When i open docker desktop i saw this problem:
+<img width="821" height="449" alt="image" src="https://github.com/user-attachments/assets/e4bab71b-a83e-4c71-9694-84bcd8dc9b65" />
+
+I downloaded wsl msi. You can find the details from this link [WSL](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI86XllrOPAxXzcfEDHa6NFa0QFnoECAwQAQ&url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fwindows%2Fwsl%2Finstall&usg=AOvVaw3NDNYJVUKnKqnP9DjgAR3M&opi=89978449)
+
+<img width="650" height="214" alt="image" src="https://github.com/user-attachments/assets/acc24e7a-90ec-4215-9e15-6652e853f542" />
+
+Now it works!
+
+
+
