@@ -16,4 +16,4 @@ Includes Docker, Redis, Kafka skeletons, and Spring Cloud notes.
   - ✅ Redis & Kafka skeleton services  
   - ✅ README run instructions updated  
 
-👉 See detailed notes: [week-2025-09-01.md](docs/week-2025-09-01.md)
+👉 See detailed notes: [week-2025-08-31.md](/docs/weekly-note-31-08-2025.md)
