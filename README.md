@@ -7,7 +7,7 @@ Includes Docker, Redis, Kafka skeletons, and Spring Cloud notes.
 
 ## Weekly Recaps
 
-- **Week 1 (2025-09-01)**  
+- **Week 1 (2025-08-31)**  
   - ✅ NX monorepo setup (frontend, backend, libs/models)  
   - ✅ NestJS TaskService + TaskController (in-memory CRUD)  
   - ✅ Angular TaskList component + HttpClient service  
